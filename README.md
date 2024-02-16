@@ -1,2 +1,1 @@
-# KirimEmail
-send email
+crate index.html
